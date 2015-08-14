@@ -8,6 +8,7 @@ Me llamo Alejandro, YEAH!!!
 
 public void Sum(int x)
 {
-	System.out.println(x);
 	x*= 5;
+	x--;
+	System.out.println(x);
 }
