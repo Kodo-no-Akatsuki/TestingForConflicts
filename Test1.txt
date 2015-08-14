@@ -1,10 +1,7 @@
-Hola me llamo
-
-skdfkfekeefwkefkkeeklewewlekwkl
-
-Daniel hohoohgogo
-
-Me llamo Alejandro, YEAH!!!
+private int helper()
+{
+   return 0;
+}
 
 public void Sum(int x)
 {
